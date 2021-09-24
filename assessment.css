@@ -1,0 +1,16 @@
+body{
+    background-color: #04a6ed;/*背景を設定*/
+    color: #fdffff;/*文字色を設定*/
+    width:500px;/*横幅の設定*/
+    margin-right: auto;/*境界線のの右に余白、autoで自動調節*/
+    margin-left: auto;/*境界線の左に余白、autoで自動調節*/
+}
+button{
+    padding:5px 20px;/*ボタンの内側の余白上下５px,左右２０px*/
+    background-color:#337ad7;/*ボタンの色を設定*/
+    color:#fdffff;/*ボタンの中の文字色を設定*/
+    border-style:none;/*境界線のスタイルnoneは境界線を表示しない*/
+}
+input{
+   height:20px;/*要素の高さを指定*/
+}
